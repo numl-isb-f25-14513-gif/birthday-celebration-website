@@ -4,7 +4,7 @@ A responsive, animated birthday celebration website featuring
 confetti effects and smooth animations.
 
 ## 🔗 Live Demo
-https://numl-isb-f25-14513-gif.github.io/birthday-celebration-website/
+https://muhammadkhan-it.github.io/birthday-celebration-website/
 
 ## 🛠️ Built With
 - HTML5
